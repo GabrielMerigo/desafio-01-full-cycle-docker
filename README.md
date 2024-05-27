@@ -1,3 +1,5 @@
+# Desafio
+
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
 docker run <seu-user>/fullcycle
@@ -11,3 +13,12 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de arquivos em camadas, apresento uma imagem "raiz", talvez seja uma boa utilizá-la.
+
+<img width="1071" alt="Screenshot 2024-05-27 at 08 24 30" src="https://github.com/GabrielMerigo/desafio-01-full-cycle-docker/assets/72055874/33c199bb-992b-4c8a-bbfc-fd685782deb6">
+
+# Abordagens
+- Multistage build
+- Utilização de Alpine Linux (Tentativa)
+- Utilização de distroless images (Tentativa)
+
+
