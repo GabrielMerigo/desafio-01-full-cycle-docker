@@ -23,4 +23,6 @@ Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de
 - Utilização de Alpine Linux (Tentativa)
 - Utilização de distroless images (Tentativa)
 
+# Links
+- Imagem no [DockerHub](https://hub.docker.com/r/gabrielmerigo/minha-imagem-go)
 
